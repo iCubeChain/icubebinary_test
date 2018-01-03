@@ -6,10 +6,10 @@
                 "linux": {
                     "x64": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.7.2-1db4ecdc.tar.gz",
+                            "url": "https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-2.7.2-1db4ecdc.tar.gz",
                             "type": "tar",
                             "md5": "cc4a666fd21ae3627ee8ae974650b2f7",
-                            "bin": "geth-linux-amd64-1.7.2-1db4ecdc/geth"
+                            "bin": "geth-linux-amd64-2.7.2-1db4ecdc/geth"
                         },
                         "bin": "geth",
                         "commands": {
